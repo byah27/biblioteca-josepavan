@@ -3,16 +3,16 @@
     padding: 0;
 }
 
-nav{
+nav{           
     display: flex;
     width: 100vw;
     justify-content: space-between;
     align-items: center;
     height: 50px;
-{
+}  
 
    .nav__logo,
-   .nav__botao,
+   .nav__topo,
        width: 35px; 
        height: 35px;
        margin: 5px;
